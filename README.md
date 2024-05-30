@@ -3,6 +3,7 @@ This is a magisk module intended to:
 - Decrease power usage when using the device.
 - Prioritize foreground tasks so any potential performance hit only effects background tasks.
 - (Optional) Enable the secondary display, which is by default disabled on aftermarket ROMs.
+On the CAT S22 Flip. Other devices may or may not work. 
   
 # Current functionality
 N/A
